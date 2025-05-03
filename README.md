@@ -4,12 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayuri1975&label=Profile%20views&color=0e75b6&style=flat" alt="mayuri1975" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayuri1975" alt="mayuri1975" /></a> </p>
+<h5 align="center">I'm currently working on MERN STACK</h5>
+<h5 align="center">I'm currently learning FULLSTACK DEVELOPER</h5>
+<h5 align="center">Ask me about MERN STACK</h5>
+<h5 align="center">How to reach me suremayuri063@gmail.com</h5>
 
 <h3 align="left">Connect with me:</h3>
-<h3 align="center">I'm currently working on MERN STACK</h3>
-<h3 align="center">I'm currently learning FULLSTACK DEVELOPER</h3>
-<h3 align="center">Ask me about MERN STACK</h3>
-<h3 align="center">How to reach me suremayuri063@gmail.com</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mayuri-s-179857228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayuri-s-179857228" height="30" width="40" /></a>
 </p>
